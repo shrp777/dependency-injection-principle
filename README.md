@@ -1,5 +1,14 @@
 # Dependency Injection Principle
 
+```bash
+bun run src/1-without-di/index.ts
+#result = 7
+
+bun run src/2-with-di/index.ts
+#result = 7
+#result = 10
+```
+
 --
 
 !["Logotype Shrp"](https://sherpa.one/images/sherpa-logotype.png)
