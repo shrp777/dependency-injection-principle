@@ -8,7 +8,7 @@ export class A {
     this.b = new B("addition");
   }
 
-  caculateAndPrintResult(a: number, b: number) {
+  calculateAndPrintResult(a: number, b: number) {
     const result = this.b.calculate(a, b);
     console.log(`result = ${result}`);
   }
