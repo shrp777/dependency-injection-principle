@@ -9,6 +9,8 @@ bun run src/2-with-di/index.ts
 #result = 10
 ```
 
+![alt Dependency Injection Principle (DI)](assets/di.png)
+
 --
 
 !["Logotype Shrp"](https://sherpa.one/images/sherpa-logotype.png)
